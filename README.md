@@ -23,4 +23,3 @@ I'm Nicolas Keismanas, a dedicated Software Engineering student, i am actively s
 
 ## Let's Connect 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-keismanas-0486b2286)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nkeismanas11@gmail.com)
