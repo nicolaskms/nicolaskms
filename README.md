@@ -6,8 +6,7 @@ I'm Nicolas Keismanas, a dedicated Software Engineering student, i am actively s
 - 🌱 I’m interested in software testing and mobile development using Flutter.
 - 📫 You can reach me at: nkeismanas11@gmail.com
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaskms&layout=compact&theme=radical)
+
 
 ## My Skills 🚀
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
