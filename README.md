@@ -1,5 +1,5 @@
 Hello and Welcome! 👋
-I'm Nicolas Keismanas, a dedicated Software Engineering student, i am actively seeking an internship opportunity where I can contribute, learn, and grow within a dynamic tech environment.
+I'm Nicolas K. Ordonho, a dedicated Software Engineering student, i am actively seeking an internship opportunity where I can contribute, learn, and grow within a dynamic tech environment.
 
 ## About Me 📚
 - 💻 I am currently learning and exploring backend development.
