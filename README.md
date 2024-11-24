@@ -22,4 +22,4 @@ I'm Nicolas K. Ordonho, a dedicated Software Engineering student, i am actively 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## Let's Connect 🌐
-[![LinkedIn](www.linkedin.com/in/nicolas-keismanas-ordonho-0486b2286)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-keismanas-ordonho-0486b2286)
