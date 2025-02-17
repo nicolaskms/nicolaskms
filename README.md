@@ -1,15 +1,14 @@
-Hello and Welcome! 👋
-I'm Nicolas K. Ordonho, a dedicated Software Engineering student, i am actively seeking an internship opportunity where I can contribute, learn, and grow within a dynamic tech environment.
+Olá e Bem-vindo! 👋
+Sou Nicolas K. Ordonho, estudante de Sistemas de Informação e estou em busca de uma oportunidade de estágio onde possa contribuir, aprender e crescer em um ambiente tecnológico dinâmico.
 
-## About Me 📚
-- 💻 I am currently learning and exploring backend development.
-- 🌱 I’m interested in software testing and mobile development using Flutter.
-- 📫 You can reach me at: nkeismanas11@gmail.com
+Sobre Mim 📚
+💻 Atualmente, estou aprendendo e explorando o desenvolvimento de Inteligências artificiais.
+📫 Entre em contato comigo pelo e-mail: nkeismanas11@gmail.com
 
-## Most Used Languages
+## Linguagens Mais Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaskms&layout=compact&theme=radical)
 
-## My Skills 🚀
+## Minhas Habilidades 🚀
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
