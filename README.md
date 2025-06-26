@@ -6,7 +6,7 @@ Sobre Mim 📚
 📫 Entre em contato comigo pelo e-mail: nkeismanas11@gmail.com
 
 ## 📄 Meu Currículo  
-[![CV](https://img.shields.io/badge/Currículo-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/nicolaskms/nicolaskms/raw/main/CVNICOLAS.pdf)
+[![CV]([https://img.shields.io/badge/Currículo-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/nicolaskms/nicolaskms/raw/main/CVNICOLAS.pdf](https://github.com/nicolaskms/nicolaskms/blob/main/README.md))
 
 ## Linguagens Mais Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaskms&layout=compact&theme=radical)
