@@ -5,8 +5,8 @@ Sobre Mim 📚
 💻 Atualmente, estou aprendendo e explorando o desenvolvimento de Inteligências artificiais.
 📫 Entre em contato comigo pelo e-mail: nkeismanas11@gmail.com
 
-## 📄 Meu Currículo  
-[![Currículo](https://img.shields.io/badge/Currículo-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/nicolaskms/nicolaskms/raw/main/CVNICOLAS.pdf)
+## Meu Currículo  
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white)]([https://github.com/nicolaskms/nicolaskms/raw/main/CVNICOLAS.pdf](https://github.com/nicolaskms/nicolaskms/blob/main/CV.Nicolas.pdf))
 
 ## Linguagens Mais Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaskms&layout=compact&theme=radical)
