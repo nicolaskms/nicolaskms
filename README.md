@@ -1,6 +1,6 @@
 Olá!
 Sou Nicolas K. Ordonho, estudante de Sistemas de Informação em busca de uma oportunidade no setor de desenvolvimento de software.
-Sobre Mim.
+
 Atualmente, estou aprendendo e explorando o desenvolvimento de Inteligências artificiais.
 Contato: nkeismanas11@gmail.com
 
