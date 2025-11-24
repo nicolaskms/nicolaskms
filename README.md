@@ -1,18 +1,15 @@
-Olá e Bem-vindo! 👋
-Sou Nicolas K. Ordonho, estudante de Sistemas de Informação e estou em busca de uma oportunidade de estágio onde possa contribuir, aprender e crescer em um ambiente tecnológico dinâmico.
+Olá!
+Sou Nicolas K. Ordonho, estudante de Sistemas de Informação em busca de uma oportunidade no setor de desenvolvimento de software.
+Sobre Mim.
+Atualmente, estou aprendendo e explorando o desenvolvimento de Inteligências artificiais.
+Contato: nkeismanas11@gmail.com
 
-Sobre Mim 📚
-💻 Atualmente, estou aprendendo e explorando o desenvolvimento de Inteligências artificiais.
-📫 Entre em contato comigo pelo e-mail: nkeismanas11@gmail.com
-
-## Baixar Meu Currículo  
-[![Currículo](https://img.shields.io/badge/Currículo-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/nicolaskms/nicolaskms/raw/main/CV.Nicolas.pdf)
 ## Visualizar Meu Currículo  
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/nicolaskms/nicolaskms/blob/main/CV.Nicolas.pdf)
 ## Linguagens Mais Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaskms&layout=compact&theme=radical)
 
-## Minhas Habilidades 🚀
+## Minhas Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
