@@ -7,7 +7,7 @@ Contato: nkeismanas11@gmail.com
 ## Visualizar Meu Currículo  
 [![Currículo](https://img.shields.io/badge/Currículo-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/nicolaskms/nicolaskms/blob/main/CV.Nicolas.pdf)
 ## Linguagens Mais Utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaskms&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaskms&layout=compact&theme=tokyonight)
 
 ## Minhas Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
