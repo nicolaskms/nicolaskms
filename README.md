@@ -1,11 +1,9 @@
 Olá!
-Sou Nicolas K. Ordonho, estudante de Sistemas de Informação em busca de uma oportunidade no setor de desenvolvimento de software.
+Sou Nicolas Keismanas Ordonho, estudante de Sistemas de Informação em busca de uma oportunidade no setor de desenvolvimento de software.
 
-Atualmente, estou aprendendo e explorando o desenvolvimento de Inteligências artificiais.
-Contato: nkeismanas11@gmail.com
+Atualmente, aprendendo e explorando o desenvolvimento de Inteligências artificiais.
+Contato: nicolas@keismanas.com.br
 
-## Visualizar Meu Currículo  
-[![Currículo](https://img.shields.io/badge/Currículo-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/nicolaskms/nicolaskms/blob/main/CV.Nicolas.pdf)
 ## Linguagens Mais Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaskms&layout=compact&theme=tokyonight)
 
